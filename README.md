@@ -1,6 +1,8 @@
 - 👋 Hi, I’m PremSaragada.
+- ✨ I had completed my bachelors in Computer Science in 202
 - 👀 I’m interested in Web Development and Graphic Designing.
-- 🌱 I’m currently learning WebDevelopment.
+- 🌱 I’m currently learning WebDevelopment .
+- 🌐 Also exploring Graphic Desinging
 - 📫 How to reach me ...email: premreddy585@gmail.com
 
 <!---
